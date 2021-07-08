@@ -52,7 +52,7 @@ For information about security threats that were considered when designing <xref
 * <xref:System.Text.Json.Utf8JsonReader>
 * <xref:System.Text.Json.Utf8JsonWriter>
 * <xref:System.Text.Json.JsonDocument>
-* `JsonNode`
+* `System.Text.Json.Nodes.JsonNode`
 :::zone-end
 
 ## Additional resources
